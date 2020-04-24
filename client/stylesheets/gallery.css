@@ -53,3 +53,8 @@ button {
   padding: 1em;
   border-radius: 50px;
 }
+
+input[type=text] {
+  font: 18px;
+  background-color: lime;
+}
